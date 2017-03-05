@@ -1,0 +1,14 @@
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.Mainfrm.resources
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\bin\Debug\Calculator.application
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.application
+D:\0myproject\C#上位机\计算器\Calculator\Calculator\obj\Debug\Calculator.Resource1.resources
